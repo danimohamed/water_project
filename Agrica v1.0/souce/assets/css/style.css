@@ -9212,11 +9212,13 @@ footer {
 
 
 .img-container {
+	margin-top: 0px;
+	padding: 0px;
     display: flex;
     align-items: center;
     justify-content: center; /* Center the image within the container */
-    width: 250px;
-    height: 250px;/* Take the full height of the navbar-brand */
+    width: 200px;
+    height: 200px;/* Take the full height of the navbar-brand */
 }
 
 .img-cover {
@@ -9225,6 +9227,6 @@ footer {
 }
 
 .img-bigger {
-    width:  250px;  /* Allow width to adjust automatically */
-    height:  250px; /* Take the full height of the container */
+    width:  200px;  /* Allow width to adjust automatically */
+    height:  200px; /* Take the full height of the container */
 }
