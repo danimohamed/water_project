@@ -9230,3 +9230,7 @@ footer {
     width:  200px;  /* Allow width to adjust automatically */
     height:  100px; /* Take the full height of the container */
 }
+
+.container {
+	gap: 40%;
+}
